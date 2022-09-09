@@ -1,6 +1,4 @@
-# (©)Codexbotz
-# Recode by @davialfajr
-# https://t.me/anonymousmyboo
+# (©) Anonymous
 
 import asyncio
 
