@@ -1,5 +1,4 @@
-# Credits: @davialfajr
-# https://t.me/anonymousmyboo
+# (©) Anonymous
 
 from pyrogram.types import InlineKeyboardButton
 
@@ -9,21 +8,21 @@ class Data:
  ├ /start - Mulai Bot
  ├ /about - Tentang Bot ini
  ├ /help - Bantuan Perintah Bot ini
- ├ /ping - Untuk mengecek bot hidup
- └ /uptime - Untuk melihat status bot 
+ ├ /ping - Untuk Mengecek Bot Hidup
+ └ /uptime - Untuk Melihat Status Bot 
  
  ❏ Perintah Untuk Admin BOT
- ├ /logs - Untuk melihat logs bot
- ├ /vars - Untuk melihat variable bot
- ├ /setvar - Untuk mengatur var dengan command dibot
- ├ /delvar - Untuk menghapus var dengan command dibot
- ├ /getvar - Untuk melihat salah satu var dengan command dibot
- ├ /users - Untuk melihat statistik pengguna bot
- ├ /batch - Untuk membuat link lebih dari satu file
- ├ /speedtest - Untuk Mengetes kecepatan server bot
- └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
+ ├ /logs - Untuk Melihat Logs Bot
+ ├ /vars - Untuk Melihat Variable Bot
+ ├ /setvar - Untuk Mengatur Var Dengan Command di Bot
+ ├ /delvar - Untuk menghapus Var Dengan Command di Bot
+ ├ /getvar - Untuk MELIHAT Salah Satu Var Dengan Command di Bot
+ ├ /users - Untuk Melihat Statistik Pengguna Bot
+ ├ /batch - Untuk Membuat Link Lebih dari Satu File
+ ├ /speedtest - Untuk Mengetes Kecepatan Server Bot
+ └ /broadcast - Untuk Mengirim Pesan Broadcast ke Pengguna Bot
 
-👨‍💻 Develoved by @anonymousmyboo</b>
+👨‍💻 Develoved by Anonymous</b>
 """
 
     close = [
@@ -47,11 +46,10 @@ class Data:
     ABOUT = """
 <b>Tentang Bot ini:
 
-@{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
+@{} adalah Bot Telegram Untuk Menyimpan Postingan atau File Yang Dapat Diakses Melalui Link Khusus.
 
  • Creator: @{}
- • Source Code: <a href='https://t.me/chatjomblohalu_bot'>Terkunci</a>
- • Owner Repo: @davialfajr
+ • Owner Repo: @{OWNER}
 
-👨‍💻 Develoved by @anonymousmyboo</b>
+👨‍💻 Develoved by Anonymous</b>
 """
