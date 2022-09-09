@@ -1,6 +1,4 @@
-# (©)Codexbotz
-# Recode by @davialfajr
-# https://t.me/anonymousmyboo
+# (©) Anonymous
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
