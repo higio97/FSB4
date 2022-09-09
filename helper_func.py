@@ -1,6 +1,4 @@
-# (©)Codexbotz
-# Recode by @davialfajr
-# t.me/anonymousmyboo
+# (©) Anonymous
 
 import asyncio
 import base64
