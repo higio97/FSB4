@@ -1,4 +1,4 @@
-# Credits: @davialfajr
+# (©) Anonymous
 
 from config import (
     FORCE_SUB_1,
