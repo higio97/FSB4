@@ -1,4 +1,4 @@
-# Credits: @davialfajr
+# (©) Anonymous
 
 import os
 
