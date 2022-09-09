@@ -49,7 +49,6 @@ class Data:
 @{} adalah Bot Telegram Untuk Menyimpan Postingan atau File Yang Dapat Diakses Melalui Link Khusus.
 
  • Creator: @{}
- • Owner Repo: @{OWNER}
 
 👨‍💻 Develoved by Anonymous</b>
 """
