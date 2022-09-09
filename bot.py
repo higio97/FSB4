@@ -1,4 +1,4 @@
-# (©)Codexbotz
+# (©) Anonymous
 
 import pyromod.listen
 import sys
